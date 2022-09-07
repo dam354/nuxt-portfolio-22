@@ -1,0 +1,77 @@
+body:
+  - title: Vue Password Generator
+    description: Password Generator made with Vue 3
+    url: https://password-generator.danmennella.dev/
+    cover: /img/projectPassword.png
+    tech:
+      - Vue
+      - Tailwind CSS
+      - HTML
+      - CSS
+      - JavaScript
+      - Responsive
+  - title: React Movie App
+    description: Movie Database App
+    url: https://password-generator.danmennella.dev/
+    cover: /img/projectMovies.png
+    tech:
+      - React
+      - React Router
+      - Tailwind CSS
+      - API
+      - HTML
+      - JavaScript
+      - Responsive
+  - title: REST Countries API
+    description: "Frontend Mentor Challenge REST Countries API with color theme switcher"
+    url: https://password-generator.danmennella.dev/
+    cover: /img/projectCountries.png
+    tech:
+      - React
+      - Tailwind CSS
+      - HTML
+      - CSS
+      - JavaScript
+      - Responsive
+  - title: Insure Landing page
+    description: "Frontend Mentor Challenge: Insure landing page"
+    url: https://insure.danmennella.dev/
+    cover: /img/projectLP.png
+    tech:
+      - Gatsby
+      - Tailwind CSS
+      - HTML
+      - CSS
+      - JavaScript
+      - Responsive
+  - title: Metronome
+    description: "Metronome with tap tempo setting"
+    url: https://metronome.danmennella.dev/
+    cover: /img/projectMetronome.png
+    tech:
+      - React
+      - HTML
+      - CSS
+      - JavaScript
+      - Responsive
+  - title: Subreddit Viewer
+    description: "Renders the top posts from a subreddit with Like functionality"
+    url: https://dam354.github.io/reddit-viewer/
+    cover: /img/projectReddit.png
+    tech:
+      - React
+      - HTML
+      - CSS
+      - JavaScript
+      - Responsive
+  - title: React Photos App
+    description: "React Photos App"
+    url: https://photos.danmennella.dev/
+    cover: /img/projectPhotos.png
+    tech:
+      - React
+      - React Router
+      - HTML
+      - CSS
+      - JavaScript
+      - Responsive
