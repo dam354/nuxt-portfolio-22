@@ -12,7 +12,7 @@ body:
       - Responsive
   - title: React Movie App
     description: Movie Database App
-    url: https://password-generator.danmennella.dev/
+    url: https://movie.danmennella.dev/
     cover: /img/projectMovies.png
     tech:
       - React
@@ -24,7 +24,7 @@ body:
       - Responsive
   - title: REST Countries API
     description: "Frontend Mentor Challenge REST Countries API with color theme switcher"
-    url: https://password-generator.danmennella.dev/
+    url: https://countries.danmennella.dev/
     cover: /img/projectCountries.png
     tech:
       - React
